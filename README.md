@@ -1,3 +1,9 @@
+## Review 2 Refactor Note
+
+Based on feedback from Review 1 regarding improper MVC separation
+and lack of JDBC transaction management, the project was refactored
+from scratch to implement a clean Service–DAO architecture with
+atomic database transactions and improved robustness.
 
 # AR Quest App – Review 2 Submission
 
